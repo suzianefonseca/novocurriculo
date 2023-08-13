@@ -1,0 +1,35 @@
+
+body{
+color: rgb(10, 10, 11);
+font-style: normal;
+margin:auto;
+
+
+
+}
+ .fotos{
+    width:200px;
+    margin-left:600px;
+    padding-top:10px;
+ }
+.meunome{
+    text-align: center;
+    color: rgb(27, 2, 95);
+}
+
+p{
+    text-align: center;
+    color: rgb(27, 2, 95);
+}
+
+H2{
+color: rgb(13, 2, 44);
+padding-left:15px;
+background-color: rgb(178, 178, 229);
+width: 600px
+}
+.resumo{
+padding-left:15px;
+color: black;
+text-align:left;
+}
